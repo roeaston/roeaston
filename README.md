@@ -33,7 +33,3 @@
 ## Connect With Me
 - 💬 Open for collaboration
 - ⭐ Star my repos if you like my work!
-
----
-
-> “Code. Learn. Build. Repeat.” 🔁
